@@ -290,12 +290,4 @@ END;
 
 
 
---group member                             ID No
---1,Arsema yirga(group leader)            02128/16
---2,Kalkidan Birara                       02768/16
---3,Melat Melkamu                         02800/16
---4,Mahilet Bimr                          02783/16
---5,Mezigebu Mekonnen                     00338/16
-
-
 
